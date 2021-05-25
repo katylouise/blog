@@ -1,0 +1,11 @@
+title: Rebecca's Personal Website
+author: Rebecca Appleyard
+email: rklappleyard@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Documenting and exploring the things I learn while at work
+theme: minima
+
+# social links
+github_username:  katylouise # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
